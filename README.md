@@ -22,8 +22,9 @@ This portfolio website serves as a platform to display my skills, projects, and 
 
 - Responsive design
 - Interactive project showcases
-- Contact form
-- Blog section
+- Nice animations
+- Pre Loader
+- Skils pages
 - Downloadable resume(to come...)
 
 ## Technologies Used
